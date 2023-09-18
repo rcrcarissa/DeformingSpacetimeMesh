@@ -35,3 +35,4 @@ $ python DeformingSpacetimeMesh.py [Path to files]
 ## Citation
 Ren, Congrong, and Hanqi Guo. "Meshing Deforming Spacetime for Visualization and Analysis." arXiv preprint arXiv:2309.02677 (2023).
 ## License
+Standard MIT disclaimer applies, see [LICENSE](https://github.com/rcrcarissa/DeformingSpacetimeMesh/blob/main/LICENSE) for full text.
